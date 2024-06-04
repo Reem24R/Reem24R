@@ -1,6 +1,6 @@
 [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
 <h1 align="center">Hi 👋, I'm Reem Mohamed Farouk</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Front-End developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 - 🌱 I’m currently learning **react.js**

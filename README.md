@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/Reem24R=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reem24R&theme=radical&hide_border=true)](https://git.io/streak-stats)
